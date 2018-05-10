@@ -1,0 +1,2 @@
+this file should contain all the ASCII characters
+in a non uniform character frequency distribution
